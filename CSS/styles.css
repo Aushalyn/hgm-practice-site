@@ -1,0 +1,201 @@
+body {
+  background-color: #EEEEEE;
+  font-family: "Roboto";
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+hr {
+  background-color: #00a8b5;
+  width: 25%;
+}
+
+/* HEADINGS */
+.section-heading {
+  font-size: 3rem;
+  font-family: "Rock Salt";
+  padding: 7% 0 2% 0;
+  text-align: center;
+}
+
+.pastor-title {
+  text-align: center;
+  font-size: 1rem;
+  font-family: "rock salt";
+  padding-bottom: 2%;
+}
+
+/* HGM BOXES */
+.hgm-box {
+  width: 64%;
+  margin: 15% 18% 10%;
+}
+/* BELIEFS */
+
+#beliefs {
+  text-align: center;
+  background-color: #343a40;
+  color: #fff;
+  font-size: 1.2rem;
+  line-height: 2;
+  padding: 50px;
+}
+
+.cross {
+  color: #00a8b5;
+}
+
+/* MISSIONS */
+#our-mission {
+  text-align: center;
+  background-color: #EEEEEE;
+  line-height: 2;
+  font-size: 1.2rem;
+  color: #343a40;
+  padding: 50px;
+}
+
+.mission-icon {
+  color: #00a8b5;
+  padding: 2%;
+}
+
+/* FOOTER */
+#footer {
+  text-align: center;
+  background-color: #343a40;
+  color: #fff;
+  font-size: .8rem;
+  padding-top: 20px;
+}
+
+.footer-links {
+  color: #fff;
+  padding: 20px;
+}
+
+.social-icons {
+  color: #fff;
+  margin: 2% 1%;
+}
+
+
+
+.copyright {
+  padding: 10px 5px;
+margin-bottom: 0;
+}
+
+
+/*************************** OUR PASTORS PAGE**********************************/
+#allen-container {
+  padding-top: 5%;
+}
+.pastor-allen-img {
+width: 600px;
+height: 400px;
+border-style: solid;
+margin-left: 1%;
+border-color: #00a8b5;
+float: left;
+box-shadow: 2px 20px 20px #BBBBBB;
+}
+
+.pastor-allen-intro{
+text-align: center;
+margin-left: 625px;
+padding-right: 2%;
+}
+
+#mel-container {
+  padding-top: 5%;
+}
+.turner-ohana {
+  width: 600px;
+  height: 400px;
+  border-style: solid;
+  margin-left: 1%;
+  border-color: #00a8b5;
+  float: right;
+  box-shadow: 2px 20px 20px #BBBBBB;
+}
+
+.pastor-mel-intro {
+text-align: center;
+margin-right: 625px;
+padding-left: 2%;
+}
+
+.hgm-pastors-img {
+  width: 600px;
+  height: 400px;
+  border-style: solid;
+  margin-left: 1%;
+  border-color: #00a8b5;
+  box-shadow: 2px 20px 20px #BBBBBB;
+}
+
+.both-pastors {
+  padding: 5% 25%;
+
+}
+
+/***************************CONTACT US**************************/
+
+.card-container{
+display: flex;
+flex-direction:row;
+flex-wrap:wrap;
+width: 1000px;
+margin: 8% 12% 3%;
+}
+
+.card{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  margin: 2%;
+}
+
+.contact-img {
+  height: 250px;
+}
+
+.name {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.title{
+  text-align: center
+}
+
+.contact-icon {
+  color: #00a8b5;
+}
+
+/* PRAYER */
+.prayer-intro {
+  padding: 2% 5% 2%;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.name-col{
+  width: 50%;
+  padding: 2% 0 0 2%;
+}
+.user-info-col {
+    width: 50%;
+    padding: 2% 0 0 2%;
+}
+
+.text-col {
+    width: 50%;
+    padding:2% 0 2% 2%;
+}
