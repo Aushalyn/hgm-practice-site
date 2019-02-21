@@ -149,17 +149,16 @@ padding-left: 2%;
 display: flex;
 flex-direction:row;
 flex-wrap:wrap;
+justify-content:center;
+align-items:center;
 width: 1000px;
 margin: 8% 12% 3%;
 }
 
 .card{
   display: flex;
-  justify-content:center;
-  align-items:center;
-  margin: 2%;
+  margin: 2% 5%;
 }
-
 .contact-img {
   height: 250px;
 }
