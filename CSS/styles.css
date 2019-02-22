@@ -9,6 +9,7 @@ h3 {
 }
 
 hr {
+  height: 2px !important;
   background-color: #00a8b5;
   width: 25%;
 }
